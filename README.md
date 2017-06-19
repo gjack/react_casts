@@ -1,6 +1,6 @@
 ## ReactCasts
 
-Basic youtube clone to explore React, Redux and React Router.
+Basic youtube clone.
 
 ## Installation
 
